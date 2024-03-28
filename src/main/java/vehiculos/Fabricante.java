@@ -14,7 +14,7 @@ public class Fabricante {
         this.pais = pais;
     }
 
-    public Fabricante fabricaMayorVentas
+//    public Fabricante fabricaMayorVentas
 
     // Getters
     public String getNombre() {
