@@ -9,6 +9,7 @@ public class Camioneta extends Vehiculo{
         super(placa, puertas, 90, nombre, precio, peso, "4X4", fabricante);
         this.volco = volco;
         cantidadCamionetas++;
+        this.fabricante.aumentaCantidadVentas();
     }
 
     // Getters
